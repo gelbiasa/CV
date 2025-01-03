@@ -8,7 +8,7 @@
         <div class="card-tools"></div>
     </div>
     <div class="card-body">
-        Selamat datang di Aplikasi pembuatan CV gartis 
+        Selamat datang di Aplikasi pembuatan CV gartis dimana anda dapat membuat CV secara gartis dan mudah dengan menggunakan template
     </div>
 </div>
 
