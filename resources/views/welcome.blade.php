@@ -8,7 +8,7 @@
         <div class="card-tools"></div>
     </div>
     <div class="card-body">
-        Selamat datang di Aplikasi SImudahCV, dimana disini pembuatan CV gartis dimana anda dapat membuat CV secara gartis dan mudah dengan menggunakan template yang sudah disediakan dan anda bisa melakukan pendowloadan
+        Selamat datang Pengguna di Aplikasi SImudahCV, dimana disini pembuatan CV gartis dimana anda dapat membuat CV secara gartis dan mudah dengan menggunakan template yang sudah disediakan dan anda bisa melakukan pendowloadan
     </div>
 </div>
 
